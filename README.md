@@ -28,7 +28,7 @@ The primary purpose of developing Maze Runner was to get some exposure to game d
 # Useful Websites
 
 * [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
-* [Unity Practice Project - Flappy Bird](https://www.youtube.com/watch?v=XtQMytORBmM&list=LL&index=1&t=1852s)
+* [Unity Practice Project - Flappy Bird](https://youtu.be/XtQMytORBmM?si=Y3zCYWZlJRr69EXC)
 
 # Future Work
 
