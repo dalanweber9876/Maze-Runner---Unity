@@ -5,7 +5,7 @@
 As a software engineer, I've become increasingly interested in game development. This project is my first attempt at using Unity engine.
 
 ## Description
-Maze Runner is a 2D game where players take control of a slime navigating through a maze. The slime is controlled by pointing in the desired direction, and a press of the spacebar propels it forward, somewhat akin to the mechanics in Flappy Bird. The objective is to maneuver through the maze without touching the walls. Colliding with the walls results in the player restarting at the beginning of the maze. The goal is to successfully navigate to the end of the maze.
+Maze Runner is a 2D game where players take control of a slime navigating through a maze. The slime is controlled by pointing in the desired direction, and a press of the spacebar propels it forward, similar to Flappy Bird. The objective is to maneuver through the maze without touching the walls. Colliding with the walls results in the player restarting at the beginning of the maze. The goal is to successfully navigate to the end of the maze.
 
 ## How to Play:
 1. Point the slime in the desired direction.
