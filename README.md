@@ -17,7 +17,7 @@ Maze Runner is a 2D game where players take control of a slime navigating throug
 ## Purpose:
 The primary purpose of developing Maze Runner was to get some exposure to game design using a game engine. Through this project, I aimed to strengthen my problem-solving skills, learn more about game mechanics, and gain practical experience in creating an engaging user experience.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Maze Runner Demo Video](https://youtu.be/GJm3bp9TUsc)
 
 # Development Environment
 
